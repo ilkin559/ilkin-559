@@ -1,0 +1,162 @@
+ 
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    
+}
+.all-box{
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%);
+    position: fixed;
+    color: rgb(0, 0, 0);
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    
+}
+
+
+.all-box2{
+  float: left;
+ padding: 25px 50px;
+    font-size: 1.6em;
+    left: 0%;
+    top: 0%;
+    right:0%;
+}
+.box1{
+   float: right;
+   padding: 25px;
+   font-size: 1.4em;
+}
+
+
+.find{
+width: 100%;
+height: 100vh;  
+background:linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(photo/bg-masthead.jpg);
+background-size: cover;
+color: white;
+text-align: center;
+padding-top: 280px;
+font-size: 1.5em;
+}
+
+
+.find1{
+    padding: 160px;
+    color:white;
+   font-size: 1em;
+    text-align: center;
+}
+.find2{
+    border: none;
+    display: block;
+    border-radius: 40px;
+    padding: 30px 20px;
+    background: tomato; 
+    color:white;
+    width: 170px;
+    margin: 60px auto;
+    text-decoration: none;
+}
+.mybtn2{
+    background: tomato;
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    border: none;
+    display: block;
+    padding-top: 150px;
+color:white;
+    
+    text-align: center;
+   
+}
+ 
+ 
+ .box3{
+     font-size: 00.9em;
+     color: #F7A69C;
+     padding: 40px;
+ }
+  .started{
+    border: none;
+    display: block;
+    border-radius: 40px;
+    padding: 20px 20px;
+    background: #E2E6EA;
+    color:black;
+    width: 170px;
+    margin: 60px auto;
+    text-decoration: none;
+
+ }
+ 
+ 
+     .service-middle .service-item{
+        
+        float: left;
+        width: 25%;
+        text-align: center;
+        font-size: 1em;
+        margin-bottom: 100px;
+        
+    
+     }
+     .services{
+         
+    
+        padding: 150px;
+       margin-bottom: 40px;
+        text-align: center;
+        color: black;
+        font-size: 1.5em;
+     }
+     .service-middle .service-item i{
+         background: tomato;
+         color: white;
+         padding: 50px;
+         margin-bottom: 40px;
+        
+     
+     }
+     .service-middle .service-item h2{
+         margin-bottom: 25px;
+     }
+     .photo{
+         
+    padding: 5px 3px;
+         vertical-align: middle;
+       
+     }
+.fre{
+    background: #343A40;
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+.download{
+    border: none;
+    display: block;
+    border-radius: 40px;
+    padding: 20px 20px;
+    background: white;
+    color: black;
+    width: 170px;
+    margin: 20px auto;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
